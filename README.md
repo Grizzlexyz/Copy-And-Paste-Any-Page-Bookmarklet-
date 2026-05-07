@@ -1,3 +1,5 @@
+# Feito Por @marcos10pc um Gênio
+
 # Don't F**** With Paste (Bookmark)
 
 Bookmarklet que remove bloqueios de colar, copiar e recortar em sites.
