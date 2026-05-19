@@ -1,4 +1,4 @@
-# Feito Por @marcos10pc um Gênio
+# Feito Por "@marcos10pc"
 
 # Don't F**** With Paste (Bookmark)
 
